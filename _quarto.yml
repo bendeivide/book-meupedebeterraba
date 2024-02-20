@@ -6,7 +6,7 @@ project:
 book:
   page-navigation: true
   reader-mode: true
-  #cover-image: cover.png
+  cover-image: cover.png
   favicon: cover.png
   title: "Meu pé de beterraba"
   author: "Ben Dêivide 

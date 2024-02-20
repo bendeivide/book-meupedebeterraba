@@ -1,8 +1,6 @@
 # Bem-vindo {.unnumbered}
 
-<a href="https://bendeivide.github.io/book-meupedebeterraba" target="_blank"><img src="cover.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Meu pé de beterraba]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro infantil é um convite a leitura infantil, de modo a transversalizar o conhecimento para a Educação infantil. 
-
-</br>
+Esse é um *livro digital* intitulado __"[Meu pé de beterraba]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro infantil é um convite a leitura infantil, de modo a transversalizar o conhecimento para a Educação infantil. 
 </br>
 **O número de leitores  que acessaram esse livro:**
 </br>
@@ -11,13 +9,7 @@
 <img src="https://hitwebcounter.com/counter/counter.php?page=11465119&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                          
 </center>       
 
-</br>
-</br>
-</br>
-</br>
-</br>
-
-## Livro físico {.unnumbered}
+# Livro físico {.unnumbered}
 
 <!-- - [Shopee](https://shopee.com.br/product/880978340/14993816937/){target="_blank"} -->
 <!-- - [Mercado livre](https://produto.mercadolivre.com.br/MLB-2844606023-livro-pelos-caminhos-de-ciriegola-capa-triplex-brilhosa-impresso-interna-preto-e-branco-_JM){target="_blank"} -->
@@ -27,18 +19,18 @@ O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](ht
 
 
 
-## ISBN {.unnumbered}
+# ISBN {.unnumbered}
 
 - __ISBN__ (Digital): XXX-XX-XX-XXXX-X
 - __ISBN__ (Capa dura): 978-65-00-89053-2
 
 
 
-## Licença {.unnumbered}
+# Licença {.unnumbered}
 
 :::: {.columns}
 
-::: {.column width="20%" .v-center-container}
+::: {.column width="30%" .v-center-container}
 
 </br>
 
@@ -47,7 +39,7 @@ O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](ht
 
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 
 </a><br />Este trabalho está sob a Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
 
@@ -58,7 +50,7 @@ O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](ht
 
 :::: {.columns}
 
-::: {.column width="20%" .v-center-container}
+::: {.column width="30%" .v-center-container}
 
 </br>
 
@@ -66,7 +58,7 @@ O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](ht
 
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 
 Usamos também a filosofia de trabalho com o Selo Democratizando Conhecimento (DC), que pode ser acessada em <https://bendeivide.github.io/dc/>. O leitor é livre para compartilhar, redistribuir, transformar ou adaptar esta obra, desde que não venha a utilizá-la em nenhuma atividade de propósito comercial. Por fim, a única exigência é a atribuição dos créditos aos autores da obra.
 
@@ -79,7 +71,7 @@ Usamos também a filosofia de trabalho com o Selo Democratizando Conhecimento (D
 </br>
 </br>
 
-## Como citar {.unnumbered}
+# Como citar {.unnumbered}
 
 - Como citar essa obra (Impresso):
 
