@@ -1,0 +1,9 @@
+# Apresentação
+
+Olá! Meu nome é Maria e tenho 6 anos, @fig-bebel. Eu estudo em uma Escola fantástica, na cidade de Ouro Branco do Estado de Minas Gerais. Minha professora é muito legal, chamada Tia Leci. Ela sugeriu a mim e aos meus colegas que levássemos um
+pé de beterraba para casa. Essa atividade era para acompanharmos o crescimento da planta.
+
+Foi muito legal aprender como a planta cresce e se alimenta. Existem muitas coisas nas plantas
+que são parecidas com os seres humanos. Vou contar a partir de agora como foi essa experiência!
+
+![A menina Maria Isabel.](images/bebel-eps-converted-to.pdf){#fig-bebel width="100%" height="400" zoom="100%"}

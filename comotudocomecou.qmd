@@ -1,0 +1,8 @@
+# Como tudo começou
+
+Meu pai é Agrônomo, e ele se chama Ben. O Agrônomo é uma das profissiões que cuida das plantas.
+Assim, ele me passou muitas ideias de como uma planta se comporta.
+
+Ao chegar em casa após a Tia Leci ter passado a atividade, comecei a observar meu pé de beterraba, @fig-pedb01. Ele estava bem pequeno. E meu pai me falou uma coisa que eu não sabia, que as plantas são muito parecidas com nós, seres humanos. Mais isso é assunto para depois.
+
+![Meu pé de beterraba no jardim da minha casa, com 5,5 cm. Veja na régua!](images/pedb01.png){#fig-pedb01 width="50%"}

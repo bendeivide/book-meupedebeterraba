@@ -1,0 +1,49 @@
+# Sobre o autor e a ilustradora {.unnumbered}
+
+</br>
+
+**Ben Dêivide de Oliveira Batista**
+
+
+:::: {.columns}
+
+
+::: {.column width="20%"}
+
+<a href="https://bendeivide.github.io/"><img src="ben.png" align="left" width="100" /></a>
+
+
+:::
+
+::: {.column width="70%"}
+
+Natural de Pau dos Ferros/RN. Atualmente é professor na Universidade Federal de São João Del-Rei (UFSJ), amante da literatura e pai de Maria Isabel. Lema para a vida profissional: "*o conhecimento é uma liberdade necessária*". Para mais, acessem: <http://bendeivide.github.io/>. ORCID: <https://orcid.org/0000-0001-7019-8794>.
+
+:::
+
+::::
+
+</br>
+
+
+**Maria Isabel Lopes Batista**
+
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+<a href="https://bendeivide.github.io/"><img src="bebelilust.png" align="left" width="100" /></a>
+
+
+
+:::
+
+::: {.column width="70%"}
+
+Natural de Lavras/MG. Estudante do 2° período da Educação Infantil no Centro Educacional Construindo O Futuro (CECOF), Ouro Branco/MG. Amante dos desenhos, aberta ao aprendizado e novos desafios!
+
+
+:::
+
+::::

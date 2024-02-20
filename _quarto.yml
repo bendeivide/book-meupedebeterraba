@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: docs
+  
+
+book:
+  page-navigation: true
+  reader-mode: true
+  #cover-image: cover.png
+  favicon: cover.png
+  title: "Meu pé de beterraba"
+  author: "Ben Dêivide 
+           </br> 
+           com ilustrações de Maria Isabel"
+  
+  date: "14/12/2023"
+  
+  page-footer:
+    left: |
+      Meu pé de beterraba foi escrito por <a href="https://bendeivide.github.io/">Ben Dêivide</a> com ilustrações de Maria Isabel.
+    right: |
+      Esse livro foi desenvolvido com o <a href="https://quarto.org/">Quarto</a>.
+  
+  chapters:
+    - index.qmd
+    - prefacio.qmd
+    - about.qmd
+    - agradecimento.qmd
+    - epigrafe.qmd
+    - apresentacao.qmd
+    - comotudocomecou.qmd
+    - summary.qmd
+    - references.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub: 
+    cover-image: cover.png
+
+editor: source
+

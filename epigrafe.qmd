@@ -1,0 +1,23 @@
+# Epígrafe {.unnumbered}
+
+<style>
+  .bottom-three {
+     margin-left: 10cm;
+  }
+</style>
+
+</br>
+</br>
+
+Ações educativas geram reações pedagógicas!
+
+</br>
+</br>
+</br>
+</br>
+
+
+<p class="bottom-three">
+  
+  **Ben Dêivide** 
+</p>
