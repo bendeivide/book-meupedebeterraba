@@ -15,7 +15,7 @@ Esse é um *livro digital* intitulado __"[Meu pé de beterraba]()"__, com o selo
 <!-- - [Mercado livre](https://produto.mercadolivre.com.br/MLB-2844606023-livro-pelos-caminhos-de-ciriegola-capa-triplex-brilhosa-impresso-interna-preto-e-branco-_JM){target="_blank"} -->
 <!-- - [Amazon](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista){target="_blank"} -->
 
-O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](https://bendeivide.github.io/books/mepedebeterraba). Por lá, todos os *links* necessários para adquirir o livro físico estão disponiveis.
+O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](https://bendeivide.github.io/books/meupedebeterraba). Por lá, todos os *links* necessários para adquirir o livro físico estão disponiveis.
 
 
 
