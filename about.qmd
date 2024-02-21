@@ -8,7 +8,7 @@
 :::: {.columns}
 
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 
 <a href="https://bendeivide.github.io/"><img src="ben.png" align="left" width="100" /></a>
 
@@ -31,7 +31,7 @@ Natural de Pau dos Ferros/RN. Atualmente é professor na Universidade Federal de
 
 :::: {.columns}
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 
 <a href="https://bendeivide.github.io/"><img src="bebelilust.png" align="left" width="100" /></a>
 
