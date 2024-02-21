@@ -21,7 +21,7 @@ O livro físico pode ser adquirido acessando a página [Meu pé de beterraba](ht
 
 # ISBN {.unnumbered}
 
-- __ISBN__ (Digital): XXX-XX-XX-XXXX-X
+- __ISBN__ (Digital): 978-65-00-94770-0
 - __ISBN__ (Capa dura): 978-65-00-89053-2
 
 
@@ -79,7 +79,7 @@ BATISTA, B. D. O.. __Meu pé de beterraba__. 1ed. Ouro Branco, MG:[sn]. 2023. 23
 
 - Como citar essa obra (Digital):
 
-BATISTA, B. D. O.. __Meu pé de beterraba__. 1ed. Ouro Branco, MG:[sn]. 2023. 23p. ISBN 978-65-XXXXX-X. Disponível em: <https://bendeivide.github.io/book-meupedebeterraba/>
+BATISTA, B. D. O.. __Meu pé de beterraba__. 1ed. Ouro Branco, MG:[sn]. 2023. 23p. ISBN 978-65-00-94770-0. Disponível em: <https://bendeivide.github.io/book-meupedebeterraba/>
 
 
 
