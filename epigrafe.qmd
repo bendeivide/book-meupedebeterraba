@@ -1,10 +1,10 @@
 # Epígrafe {.unnumbered}
 
-<style>
-  .bottom-three {
-     margin-left: 10cm;
-  }
-</style>
+<!-- <style> -->
+<!--   .bottom-three { -->
+<!--      margin-left: 10cm; -->
+<!--   } -->
+<!-- </style> -->
 
 </br>
 </br>
@@ -16,8 +16,9 @@ Ações educativas geram reações pedagógicas!
 </br>
 </br>
 
+**Ben Dêivide** 
 
-<p class="bottom-three">
-  
-  **Ben Dêivide** 
-</p>
+<!-- <p class="bottom-three"> -->
+
+<!--   **Ben Dêivide**  -->
+<!-- </p> -->

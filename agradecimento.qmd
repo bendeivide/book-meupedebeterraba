@@ -1,10 +1,10 @@
 # Agradecimento {.unnumbered}
 
-<style>
-  .bottom-three {
-     margin-left: 8cm;
-  }
-</style>
+<!-- <style> -->
+<!--   .bottom-three { -->
+<!--      margin-left: 8cm; -->
+<!--   } -->
+<!-- </style> -->
 
 O agradecimento desta obra se faz necessário para a pessoa que desencadeou tudo isso, e se chama Tia Leci, @fig-bebelleci.
 
@@ -12,8 +12,12 @@ O agradecimento desta obra se faz necessário para a pessoa que desencadeou tudo
 
 Precisamos de pedagoga(o)s que estimulem os seus alunos a criatividade, e que o impulsionem as suas melhores entregas. Desse modo, desenvolveremos cidadãos proativos, que retiram o conhecimento de uma sala de aula e integra este conhecimento ao seu dia a dia. Muito obrigado Tia Leci por ter proporcionado isso não só a Maria Isabel, mas também a todos os seus alunos e familiares.
 
-<p class="bottom-three">
+<!-- <p class="bottom-three"> -->
+<!-- **Ben Dêivide**  -->
+<!-- </br> -->
+<!-- Ouro Branco, MG, 14 de dezembro de 2023 -->
+<!-- </p> -->
+
 **Ben Dêivide** 
 </br>
 Ouro Branco, MG, 14 de dezembro de 2023
-</p>

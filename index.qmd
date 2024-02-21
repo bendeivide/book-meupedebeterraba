@@ -73,7 +73,7 @@ Usamos também a filosofia de trabalho com o Selo Democratizando Conhecimento (D
 
 # Como citar {.unnumbered}
 
-- Como citar essa obra (Impresso):
+- Como citar essa obra (Impressa):
 
 BATISTA, B. D. O.. __Meu pé de beterraba__. 1ed. Ouro Branco, MG:[sn]. 2023. 23p. ISBN 978-65-89053-2.
 

@@ -6,4 +6,4 @@ pé de beterraba para casa. Essa atividade era para acompanharmos o crescimento 
 Foi muito legal aprender como a planta cresce e se alimenta. Existem muitas coisas nas plantas
 que são parecidas com os seres humanos. Vou contar a partir de agora como foi essa experiência!
 
-![A menina Maria Isabel.](images/bebel-eps-converted-to.pdf){#fig-bebel width="100%" height="400" zoom="100%"}
+![A menina Maria Isabel.](images/bebel.png){#fig-bebel width="80%" height="400" zoom="100%"}

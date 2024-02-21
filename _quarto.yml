@@ -29,11 +29,14 @@ book:
     - epigrafe.qmd
     - apresentacao.qmd
     - comotudocomecou.qmd
-    - summary.qmd
-    - references.qmd
+    - entmeupedebet.qmd
+    - ovalordomeupe.qmd
+    - observacao.qmd
+    - aprendizado.qmd
+
     
 
-bibliography: references.bib
+# bibliography: references.bib
 
 format:
   html:

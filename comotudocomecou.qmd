@@ -6,3 +6,10 @@ Assim, ele me passou muitas ideias de como uma planta se comporta.
 Ao chegar em casa após a Tia Leci ter passado a atividade, comecei a observar meu pé de beterraba, @fig-pedb01. Ele estava bem pequeno. E meu pai me falou uma coisa que eu não sabia, que as plantas são muito parecidas com nós, seres humanos. Mais isso é assunto para depois.
 
 ![Meu pé de beterraba no jardim da minha casa, com 5,5 cm. Veja na régua!](images/pedb01.png){#fig-pedb01 width="50%"}
+
+Poucos dias no vaso, observei diversas outras plantinhas que estavam nascendo ao lado do meu pé de beterraba, e meu pai me explicou que era interessante retirá-las para que a beterraba pudesse se alimentar melhor e ficasse mais linda. Não entendi muito bem como a planta se alimentaria nesse momento. Nem sabia que ela tinha boca! Mesmo assim, comecei a limpar o local como ele havia pedido, @fig-pedb02. Veja como ficou na @fig-pedb03.
+
+![Meu pé de beterraba no vaso com outras plantinhas nascendo.](images/pedb02.png){#fig-pedb02 width="50%"}
+
+![Limpeza do vaso.](images/pedb03.png){#fig-pedb03 width="50%"}
+

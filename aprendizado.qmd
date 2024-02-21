@@ -1,0 +1,15 @@
+# Aprendizado
+
+Eu gostaria de dizer a vocês que eu aprendi muito ao observar e cuidar do meu pé de beterraba.
+
+Eu aprendi que uma planta tem três partes básicas: raiz, caule e folhas, mas que o meu pé de beterraba tem uma raiz tuberosa que armazena muita energia. E o legal é que se for consumido a beterraba em uma salada deliciosa, essa energia pode ser compartilhada conosco. Além do mais, eu posso consumir as folhas da beterraba porque elas são ricas em nutrientes, e isso me ajuda a brincar por mais tempo. Por fim, meu pai e Tia Leci me ensinaram que as partes básicas de uma planta tem funções parecidas com órgãos do corpo humano. Isso foi o máximo!
+
+Não sei se observaram, mas eu não mostrei como ficou a minha beterraba, porque eu quis deixar na imaginação como poderá ficar o pé de beterraba que vocês, leitores, também podem plantar. O meu pé eu deixei na @fig-pedebet01, para mostrar como eu observei e também a sensação da experiência de como ter plantado meu pé de beterraba!
+
+![Como eu observei meu pé de beterraba!](images/beterraba01.png){#fig-pedebet01 width="50%"}
+
+Plante também seu pé de beterraba e compartilhe como foi a sua experiência! Ótimas observações!
+
+<center>
+![](images/bebel_beterraba.png){width="50%"}
+</center>

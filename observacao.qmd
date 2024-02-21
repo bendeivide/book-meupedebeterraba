@@ -1,0 +1,16 @@
+# Observação
+
+Após muito aprendizado, gostaria de registrar como ficou meu pé de beterraba. Depois de um tempinho até observar minha plantinha crescer, na @fig-pedb04, eu apresento meu pé de beterraba com 118 dias. 
+
+![Meu pé de beterraba no jardim da minha casa, com 23,5 cm e 118 dias após o plantio. Veja na régua!](images/pedb04.png){#fig-pedb04 width="50%"}
+
+E sete dias depois, ela cresceu mais 7 cm, e ficou com 125 cm de altura, @fig-pedb05.
+
+![Meu pé de beterraba no jardim da minha casa, com 29 cm e 125 dias após o plantio. Veja na régua!](images/pedb05.png){#fig-pedb05 width="50%"}
+
+Mais uma vez eu verifiquei algumas outras plantinhas no vaso, e novamente eu fiz a limpeza, @fig-pedb06. Veja como ela ficou linda na @fig-pedb07.
+
+![Segunda limpeza do meu pé de beterrraba.](images/pedb06.png){#fig-pedb06 width="50%"}
+
+![Meu pé de beterraba no jardim da minha casa com 130 dias.](images/pedb07.png){#fig-pedb07 width="50%"}
+
