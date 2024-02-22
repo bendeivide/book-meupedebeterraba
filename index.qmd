@@ -79,7 +79,7 @@ BATISTA, B. D. O.. __Meu pé de beterraba__. Ilustrações de Maria Isabel Lopes
 
 - Como citar essa obra (Digital):
 
-BATISTA, B. D. O.. __Meu pé de beterraba__. Ilustrações de Maria Isabel Lopes Batista. 1ed. Ouro Branco, MG:[sn]. 2023. 23p. ISBN 978-65-00-94770-0. Disponível em: <https://bendeivide.github.io/book-meupedebeterraba/>
+BATISTA, B. D. O.. __Meu pé de beterraba__. Ilustrações de Maria Isabel Lopes Batista. 1ed. Ouro Branco, MG:[sn]. 2023. ISBN 978-65-00-94770-0. Disponível em: <https://bendeivide.github.io/book-meupedebeterraba/>
 
 
 
